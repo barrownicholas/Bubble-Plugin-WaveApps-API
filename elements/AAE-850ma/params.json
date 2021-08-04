@@ -1,0 +1,37 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "WaveApps Connector",
+    "fields": {
+        "AAF": {
+            "caption": "Access Token",
+            "editor": "DynamicValue",
+            "name": "access_token",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-desktop",
+    "states": {
+        "AAL": {
+            "caption": "Business Names",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "business_names",
+            "value": "text"
+        },
+        "AAM": {
+            "caption": "Business ID's",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "business_ids",
+            "value": "text"
+        }
+    }
+}

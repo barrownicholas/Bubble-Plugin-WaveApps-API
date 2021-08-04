@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "payment",
+        "1": "analytics",
+        "2": "internationalization",
+        "3": "data (things)",
+        "4": "small business"
+    },
+    "description": "This plugin brings to Bubble the WaveApps GraphQL API. WaveApps is a free accounting platform that is great for individuals, small businesses, and start-ups. Disclaimer: I do not work for WaveApps nor was this plugin sanctioned by them.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1628035820831x925641087187993000/waveapps.png",
+    "license": "open_source",
+    "link": "https://developer.waveapps.com/hc/en-us/categories/360001114072",
+    "name": "WaveApps API",
+    "plugin_instructions": "1. Create a WaveApps account. \n2. Sign-in to your WaveApps account.\n3. Create a new developer application at https://developer-apps.waveapps.com/apps/\n4. Create a full access token in the application you created from step 3.\n5. Use the full access token in your API calls. Hint: make sure to leave the \"Bearer\" prefix when adding the token."
+}
